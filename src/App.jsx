@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Bestseller from './Pages/Bestseller';
 import Shop from './Pages/Shop';
 import prodinfo from "./ProductInfo";
-import Landingpage from "./Pages/Landingpage";
+// import Landingpage from "./Pages/Landingpage";
 import Home from "./Pages/Home";
 function App() {
 
